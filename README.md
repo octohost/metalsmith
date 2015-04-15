@@ -13,5 +13,3 @@ cd metalsmith
 git remote add octohost git@ip.address.here:metalsmith.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://metalsmith.octohost.io](http://metalsmith.octohost.io)
